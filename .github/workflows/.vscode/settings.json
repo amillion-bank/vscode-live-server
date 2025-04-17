@@ -1,0 +1,4 @@
+{
+    "editor.experimental.preferTreeSitter.typescript": true,
+    "php.format.rules.alignProperties": true
+}
