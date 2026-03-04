@@ -356,7 +356,9 @@
     "vsls": "^0.3.967"
   },
   "overrides": {
-    "es5-ext": "0.10.53"
+    "es5-ext": "0.10.53",
+    "semver@<=5.7.2": "5.7.2",
+    "trim-newlines@<=3.0.1": "3.0.1"
   },
   "announcement": {
     "onVersion": "5.7.9",
